@@ -1,0 +1,5 @@
+"Nova","Müller","","","KST Rhein-Ruhr","weibl. Schüler A K1","1","","","Kanuslalom Dorsten","39.Gladbecker Kanuslalom"
+"Luna Chiara","Gurski","","","KC Hohenlimburg","weibl. Schüler A K1","2","","","Kanuslalom Dorsten","39.Gladbecker Kanuslalom"
+"Emma","Menze","","","WSC Lippstadt","weibl. Schüler A K1","3","","","Kanuslalom Dorsten","39.Gladbecker Kanuslalom"
+"Jule","Fernholz","","","WSC Lippstadt","weibl. Schüler A K1","4","","","Kanuslalom Dorsten","39.Gladbecker Kanuslalom"
+"Lea Sophie","Striebeck","","","KC Hohenlimburg","weibl. Schüler A K1","5","","","Kanuslalom Dorsten","39.Gladbecker Kanuslalom"

@@ -1,0 +1,5 @@
+"Lasse","Kraan","","","KST Rhein-Ruhr","männl. Schüler A K1","1","","","Kanuslalom Dorsten","39.Gladbecker Kanuslalom"
+"Felix","Streubel","","","KC Hohenlimburg","männl. Schüler A K1","2","","","Kanuslalom Dorsten","39.Gladbecker Kanuslalom"
+"Niko","Stwerka","","","KK Unna","männl. Schüler A K1","3","","","Kanuslalom Dorsten","39.Gladbecker Kanuslalom"
+"Linus","Eckermann","","","KC Hilden","männl. Schüler A K1","4","","","Kanuslalom Dorsten","39.Gladbecker Kanuslalom"
+"Luca","Knolle","","","KK Unna","männl. Schüler A K1","5","","","Kanuslalom Dorsten","39.Gladbecker Kanuslalom"

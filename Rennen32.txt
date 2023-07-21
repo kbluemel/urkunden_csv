@@ -1,0 +1,5 @@
+"Elisa","Steinke","","","KK Bergheim","weibl. Schüler B K1","1","","","Kanuslalom Dorsten","39.Gladbecker Kanuslalom"
+"Maria","Maiwald","","","DJK Coesfeld","weibl. Schüler B K1","2","","","Kanuslalom Dorsten","39.Gladbecker Kanuslalom"
+"Jorid","Kampe","","","WSC Bayer Dormagen","weibl. Schüler B K1","3","","","Kanuslalom Dorsten","39.Gladbecker Kanuslalom"
+"Alexa","Buhr","","","WSC Lippstadt","weibl. Schüler B K1","4","","","Kanuslalom Dorsten","39.Gladbecker Kanuslalom"
+"Emily","Steinhoff","","","WSC Lippstadt","weibl. Schüler B K1","5","","","Kanuslalom Dorsten","39.Gladbecker Kanuslalom"

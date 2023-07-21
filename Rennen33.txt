@@ -1,0 +1,5 @@
+"Yannick","Krauße","","","KST Rhein-Ruhr","männl. Schüler B K1","1","","","Kanuslalom Dorsten","39.Gladbecker Kanuslalom"
+"Julian","Kraan","","","KST Rhein-Ruhr","männl. Schüler B K1","2","","","Kanuslalom Dorsten","39.Gladbecker Kanuslalom"
+"Emil","Strauß","","","KVS Schwerte","männl. Schüler B K1","3","","","Kanuslalom Dorsten","39.Gladbecker Kanuslalom"
+"Justus","Rotsch","","","KST Rhein-Ruhr","männl. Schüler B K1","4","","","Kanuslalom Dorsten","39.Gladbecker Kanuslalom"
+"Lasse","Süggeler","","","WSC Lippstadt","männl. Schüler B K1","5","","","Kanuslalom Dorsten","39.Gladbecker Kanuslalom"
